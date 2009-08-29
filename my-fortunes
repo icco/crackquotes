@@ -1362,3 +1362,11 @@ Even when the Detroit Lions get set to play the Pittsburgh Steelers they go into
 What I believe is that all clear-minded people should remain two things throughout their lifetimes: Curious and teachable.
   -- Rogert Ebert
 %
+/** 
+ * Please don't call this.
+ */
+public static function update() {
+   throw new BadFunctionCallException("NOES! Don't Call me!");
+}   
+ -- from a project Nat was working on
+%
