@@ -9,6 +9,7 @@ Download the fortune file.
 Run strfile against my-fortunes to create an index. Debian and derivatives include this in the fortune package, other distributions hide it in another package. Red Hat seems to install the binary under /usr/sbin.
 
 Once the index is created (will be named my-fortunes.dat), run the following 
+
  > fortune my-fortunes
 
 in the same directory as the index, and a fortune will appear.
