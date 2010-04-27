@@ -9,6 +9,7 @@ First download this repo and install fortune,
  * Debian: `apt-get install fortune-mod`
  * Fedora: `yum install fortune-mode`
  * Gentoo: `emerge fortune-mod`
+ * OSX w/ MacPorts: `port install fortune`
 
 There is a simple make file in this repo, so you can just run `make` and then `fortune crackquotes` in this directory and a fortune will appear.
 
