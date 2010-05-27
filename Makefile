@@ -7,3 +7,5 @@ all: ${POSSIBLE}
 %.dat : %
 	@strfile $< $@
 
+clean:
+	rm *.dat
