@@ -325,6 +325,9 @@ please email mike@frantic.org to receive a full refund -->
 Quantum physicists didn't discover "spooky action at a distance"; in software, we've had it for years.
     -- Michael C. Feathers, _Working Effectively with Legacy Code_
 %
+"No, no, it's fine! Computer Science is the discipline of pedantry: every stupid little thing has to be exactly right for anything to work."
+  -- Dr. John Clements
+%
 We'd have to make some fake entries in the database, and the DBA will get upset. We'd have to take him to lunch when he found out, and even then he'd still be upset. Hist job is hard enough as it is.
     -- Michael C. Feathers, _Working Effectively with Legacy Code_
 %
