@@ -17,9 +17,9 @@ After you add or change a fortune, run make again.
 
 ## Notes
 
-These fortunes were intended to be piped into Thunderbird or another application with decent word-wrapping functionality. As such, reading them on the command line or another place that lacks good word-wrap support may be uncomfortable.
+ * These fortunes were intended to be piped into Thunderbird or another application with decent word-wrapping functionality. As such, reading them on the command line or another place that lacks good word-wrap support may be uncomfortable.
+ * Many of these quotes came from the internet, as such, there is no guarantee that they are appropriate for children or people uncomfortable with vulgar language.
 
 ## Adding Quotes
 
 Fork this quote repository. Try to keep each commit to one or two quotes. If we find your quote funny we may pull it upstream.
-
