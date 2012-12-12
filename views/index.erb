@@ -9,7 +9,9 @@
     <div class="container">
       <div style="margin: 30px">
         <blockquote>
-          <p style="white-space: pre;"><%=h @quote.text %></p>
+          <% @quote.text.split("\n").each do |line| %>
+            <p><%=h line %></p>
+          <% end %>
           <small><%=h @quote.author %></small>
         </blockquote>
       </div>
