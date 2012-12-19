@@ -1,7 +1,7 @@
-require 'rubygems'
-require 'bundler'
+#!/usr/bin/env rackup
+# encoding: utf-8
 
-Bundler.require
+require 'json'
+require File.expand_path("../config/boot.rb", __FILE__)
 
-require './site'
-run Sinatra::Application
+run Padrino.application
