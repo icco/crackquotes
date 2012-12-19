@@ -12,7 +12,9 @@
           <% @quote.text.split("\n").each do |line| %>
             <p><%=h line %></p>
           <% end %>
-          <small><%=h @quote.author %></small>
+          <% if @quote.author %>
+            <small><%=h @quote.author %></small>
+          <% end %>
         </blockquote>
       </div>
     </div>
