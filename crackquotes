@@ -868,8 +868,8 @@ The use of this redundant [little-endian and big-endian] coding was necessary to
 [ISO 9660] Years begin to count at 1900, which means that CD-ROMs will suffer from a Y2156 problem because the year following 2155 will be 1900. This problem could have been delayed by defining the origin time to be 1988 (the year the standard was adopted). Had that been done, the problem would have been postponed until 2244. Every 88 extra years helps.
   -- Andrew Tanenbaum, _Modern Operating Systems_
 %
-    The memory management on the PowerPC can be used to frighten small children.
-      -- Linus Torvalds
+The memory management on the PowerPC can be used to frighten small children.
+  -- Linus Torvalds
 %
 Urban[0]: and I think they are on crack
   -- seen in #cplug
