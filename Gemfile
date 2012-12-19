@@ -1,10 +1,10 @@
 source :rubygems
 
 # Project requirements
-gem 'activerecord', :require => "active_record"
+gem "json"
+gem "sinatra"
 gem 'erubis', "~> 2.7.0"
 gem 'less'
-gem 'pg'
 gem 'rack-less'
 gem 'rake'
 gem 'sinatra-flash', :require => 'sinatra/flash'

@@ -1,7 +1,9 @@
+!vendor/gems/cache/
+*.dat
+*.swp
 .DS_Store
+.sass-cache/*
+bin/*
 log/**/*
 tmp/**/*
-bin/*
 vendor/gems/*
-!vendor/gems/cache/
-.sass-cache/*
