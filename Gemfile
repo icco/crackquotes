@@ -5,6 +5,7 @@ gem "json"
 gem "sinatra"
 gem 'erubis', "~> 2.7.0"
 gem 'less'
+gem 'libv8'
 gem 'rack-less'
 gem 'rake'
 gem 'sinatra-flash', :require => 'sinatra/flash'
