@@ -13,7 +13,7 @@
             <p><%=h line %></p>
           <% end %>
           <% if @quote.author %>
-            <small><%=h @quote.author %></small>
+            <small><%=h @quote.author %> <a href="/quote/<%= @quote.id %>" title="permalink">#</a></small>
           <% end %>
         </blockquote>
       </div>
