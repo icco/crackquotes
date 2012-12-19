@@ -14,6 +14,10 @@ class Quote < Struct.new(:text, :author)
     return quotes
   end
 
+  def self.get id
+    return self.all[id]
+  end
+
   def self.random
     return self.all.sample
   end
