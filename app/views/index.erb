@@ -4,21 +4,90 @@
     <title>Quotes</title>
     <!-- Bootstrap -->
     <link href="/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style type="text/css">
+
+      /* Sticky footer styles
+      -------------------------------------------------- */
+
+      html,
+      body {
+        height: 100%;
+        /* The html and body elements cannot have any padding or margin. */
+      }
+
+      /* Wrapper for page content to push down footer */
+      #wrap {
+        min-height: 100%;
+        height: auto !important;
+        height: 100%;
+        /* Negative indent footer by it's height */
+        margin: 0 auto -60px;
+      }
+
+      /* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: 60px;
+      }
+      #footer {
+        background-color: #f5f5f5;
+      }
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+
+      /* Custom page CSS
+      -------------------------------------------------- */
+      /* Not required for template or sticky footer method. */
+
+      .container {
+        width: auto;
+        max-width: 680px;
+      }
+      .container .credit {
+        margin: 20px 0;
+      }
+
+    </style>
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
   </head>
   <body>
-    <div class="container">
-      <div style="margin: 30px">
-        <blockquote>
-          <% @quote.text.split("\n").each do |line| %>
-            <p><%=h line %></p>
-          <% end %>
-          <% if @quote.author %>
-            <small><%=h @quote.author %> <a href="/quote/<%= @quote.id %>" title="permalink">#</a></small>
-          <% end %>
-        </blockquote>
+    <div id="wrap">
+      <div class="container">
+        <div style="margin: 30px">
+          <blockquote>
+            <% @quote.text.split("\n").each do |line| %>
+              <p><%=h line %></p>
+            <% end %>
+            <% if @quote.author %>
+              <small><%=h @quote.author %> <a href="/quote/<%= @quote.id %>" title="permalink">#</a></small>
+            <% end %>
+          </blockquote>
+        </div>
       </div>
-      <div class="muted pull-right" style="margin-top: 250px; font-size: 0.7rem;">
-        <p>Quote <%= @quote.id %> of <%= Quote.all.count - 1 %>. Site by @<a href="https://github.com/icco/crackquotes">icco</a>.</p>
+
+      <div id="push"></div>
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <p class="muted pull-right credit">Quote <%= @quote.id %> of <%= Quote.all.count - 1 %>.</p>
+        <p class="muted credit">Site by @<a href="https://github.com/icco/crackquotes">icco</a>.</p>
       </div>
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
