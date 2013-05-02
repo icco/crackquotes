@@ -79,6 +79,15 @@
             <% end %>
           </blockquote>
         </div>
+
+        <ul class="pager">
+          <li class="previous <%= "disabled" if !@quote.id %>">
+            <a href="/quote/<%= @quote.id - 1 %>">&larr; Older</a>
+          </li>
+          <li class="next <%= "disabled" if @quote.id == Quote.max %>">
+            <a href="/quote/<%= @quote.id + 1%>">Newer &rarr;</a>
+          </li>
+        </ul>
       </div>
 
       <div id="push"></div>
@@ -86,7 +95,7 @@
 
     <div id="footer">
       <div class="container">
-        <p class="muted pull-right credit">Quote <%= @quote.id %> of <%= Quote.all.count - 1 %>.</p>
+        <p class="muted pull-right credit">Quote <%= @quote.id %> of <%= Quote.max %>.</p>
         <p class="muted credit">Site by @<a href="https://github.com/icco/crackquotes">icco</a>.</p>
       </div>
     </div>

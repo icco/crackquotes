@@ -5,6 +5,10 @@ class Quote < Struct.new(:text, :author)
     return Quote.all.index self
   end
 
+  def self.max
+    return Quote.all.count - 1
+  end
+
   def self.all
     quotes = []
     File.open(@@quote_file) do |file|
