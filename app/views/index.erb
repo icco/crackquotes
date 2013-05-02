@@ -81,7 +81,7 @@
         </div>
 
         <ul class="pager">
-          <li class="previous <%= "disabled" if !@quote.id %>">
+          <li class="previous <%= "disabled" if @quote.id <= 0 %>">
             <a href="/quote/<%= @quote.id - 1 %>">&larr; Older</a>
           </li>
           <li class="next <%= "disabled" if @quote.id == Quote.max %>">
