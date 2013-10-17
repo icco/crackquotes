@@ -87,6 +87,8 @@
             <li class="previous"><a href="/quote/<%= @quote.id - 1 %>">&larr; Older</a></li>
           <% end %>
 
+          <li><a href="/" title="Random Quote">?</a></li>
+
           <% if @quote.id >= Quote.max %>
             <li class="next disabled"><a href="#">Newer &rarr;</a></li>
           <% else %>
