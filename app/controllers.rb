@@ -12,6 +12,10 @@ Quotes.controllers  do
     end
   end
 
+  get :about do
+    render :about
+  end
+
   get :quote, :with => :id, :provides => [:html, :json] do
     @quote = Quote.get params[:id].to_i
 
