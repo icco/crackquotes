@@ -16,6 +16,13 @@ Quotes.controllers  do
     render :about
   end
 
+  get :img do
+    @quote = Quote.random
+    @img = Image.random
+
+    render :image
+  end
+
   get :quote, :with => :id, :provides => [:html, :json] do
     @quote = Quote.get params[:id].to_i
 

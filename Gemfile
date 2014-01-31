@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 # Project requirements
 gem 'erubis', '~> 2.7.0'
+gem 'flickraw'
 gem 'json'
 gem 'padrino', '>= 0.11'
 gem 'rake'

@@ -3,6 +3,7 @@
 *.swp
 .DS_Store
 .sass-cache/*
+.bundle
 bin/*
 log/**/*
 tmp/**/*
