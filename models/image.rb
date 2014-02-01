@@ -7,7 +7,6 @@ class Image
 
     # http://www.flickr.com/photos/icco/sets/72157601200827657/
     photos = flickr.photosets.getPhotos(:photoset_id => '72157601200827657', :media => 'photos', :extras => 'url_o').photo
-    p photos
     
     return photos.sample['url_o']
   end

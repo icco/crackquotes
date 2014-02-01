@@ -7,6 +7,17 @@
 
     <style type="text/css">
       body {
+        margin-left: 0;
+      }
+
+      #quote {
+        margin: 30% 0;
+        background: #7FFFD4;
+        padding: 10px;
+        width: 800px;
+        opacity: 0.8;
+        font-weight: 800;
+        font-family: monospace;
       }
     </style>
 
@@ -16,7 +27,7 @@
     <![endif]-->
   </head>
   <body>
-    <div style="margin: 30px">
+    <div id="quote">
       <blockquote>
         <% @quote.text.split("\n").each do |line| %>
           <p><%=h line %></p>
