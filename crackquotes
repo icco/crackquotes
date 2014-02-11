@@ -7,16 +7,16 @@
 (08:21:02 PM) trainman419: Cliff: have another drink
   -- seen in #cplug
 %
-"If you want to have good ideas you must have many ideas. Most of them will be wrong, and what you have to learn is which ones to throw away."
+If you want to have good ideas you must have many ideas. Most of them will be wrong, and what you have to learn is which ones to throw away.
   -- Linus Pauling
 %
-"The way I want to change the world is expressed in my source code."
+The way I want to change the world is expressed in my source code.
   -- Dr. Clark S. Turner
 %
 xiong_chiamiov: so yeah, in our fictional hellsing movie, batman-guy is going to play alucard, because of that movie
   -- seen in #cplug
 %
-"I'm not a businessman, I'm a business, man."
+I'm not a businessman, I'm a business, man.
   -- Jay-Z
 %
 I'm Sorry. We're going to make a bit of scene.
@@ -125,7 +125,7 @@ I want to be buried with a shotgun and a box of shells. Then someday I’ll be t
 (02:24:45 AM) ChaosArbiter left the room (quit: Client Quit).
   -- seen in #cplug
 %
-"No man's knowledge can go beyond his experience."
+No man's knowledge can go beyond his experience.
   -- John Locke
 %
 Our scheduler will be made of awesome with a dollop of amazing on top. It might even run without triggering a kernel panic!
@@ -199,7 +199,7 @@ please email mike@frantic.org to receive a full refund -->
 (09:58:39 PM) Cliff: cats get away with a lot
   -- seen in #cplug
 %
-"If cats looked like frogs, we'd realize what nasty, cruel little bastards they are."
+If cats looked like frogs, we'd realize what nasty, cruel little bastards they are.
   -- Terry Pratchett, Lords and Ladies
 %
 (08:07:55 PM) xiong_chiamiov: Contre: you're complaining about nerds... in a linux user group irc channel
@@ -217,19 +217,19 @@ please email mike@frantic.org to receive a full refund -->
 Quantum physicists didn't discover "spooky action at a distance"; in software, we've had it for years.
   -- Michael C. Feathers, _Working Effectively with Legacy Code_
 %
-"No, no, it's fine! Computer Science is the discipline of pedantry: every stupid little thing has to be exactly right for anything to work."
+No, no, it's fine! Computer Science is the discipline of pedantry: every stupid little thing has to be exactly right for anything to work.
   -- Dr. John Clements
 %
-"It kind of goes bip-boop-bip-boop-beep, and it's kind of hard to think about."
+It kind of goes bip-boop-bip-boop-beep, and it's kind of hard to think about.
   -- Dr. John Clements
 %
-Student: "So, Git is saying it wants to delete everything?"
-Dr. John Clements: "No, Git is saying you already deleted everything."
+Student: So, Git is saying it wants to delete everything?
+Dr. John Clements: No, Git is saying you already deleted everything.
 %
 We'd have to make some fake entries in the database, and the DBA will get upset. We'd have to take him to lunch when he found out, and even then he'd still be upset. Hist job is hard enough as it is.
   -- Michael C. Feathers, _Working Effectively with Legacy Code_
 %
-"Better is the enemy of working."
+Better is the enemy of working.
   -- Jenee Hughes
 %
 The destruction is caused by disruption of cytoplasmic streaming and loss of anthocyanin (I thought you'd really want to know that) ...
@@ -299,16 +299,13 @@ Cliff: it's way too hot to be alive right now
 (10:52:41 PM) BrokenPipe: I've lareyd had 4
   -- seen in #cplug
 %
-yay men fighting back for their right to rape
-  -- Selina Chang, on so-called Afghani "marital rape" law
-%
 Sound - Thanks to the warped mind of Steve Schmidtke, UML has sound support.
   -- from the User Mode Linux documentation
 %
-(05:48:23 PM) trainman419: I never get tired of reading this documentation: "Your tape changer and you"
+(05:48:23 PM) trainman419: I never get tired of reading this documentation: Your tape changer and you
   -- seen in #cplug
 %
-(11:11:15 PM) hellwolf left the room (quit: "Don't follow me").
+(11:11:15 PM) hellwolf left the room (quit: Don't follow me).
   -- seen in ##kernel
 %
 Some code:
@@ -339,7 +336,7 @@ But still give me some help.
 (09:15:01 PM) ***Oh say can you see, by the dawn's early light?
 (09:15:12 PM) ***Oh for a muse of fire!
 (09:15:40 PM) ***Oh boy!
-(09:16:58 PM) You have been kicked by icco: (" Oh really?")
+(09:16:58 PM) You have been kicked by icco: ( Oh really?)
   -- seen in #cplug
 %
 Benjamin Whetham: OOOO, Just like in the basement of their office. The Wolves eat the zombies, the Zombies give out mittens and hot chocolate, and I have no idea where this is going.
@@ -370,7 +367,7 @@ Yeah pffft I hate it when scientists do research only to find out what they expe
 (05:22:39 PM) Lu_Mac: we should be able to fly in them for $75 cents
   -- seen in #cg-char
 %
-"Strange, I don't remember suffering from memory loss."
+Strange, I don't remember suffering from memory loss.
   -- seen in somebody's .sig
 %
 mind-flayer: eharmony.com told me it couldn't match me
@@ -410,13 +407,7 @@ Don't code to live; live to code!
 These may involve hunting down whoever added whichever thing it is and torturing information out of them.
   -- from the GCC Documentation Project's web page
 %
-And the Format source code tells me that *really* the indicator of an error is whether the index has changed value or not. If it has *not* changed value, then some of the Format class' innards assume that since parsing didn't happen, an error must have occurred. (Pause for Buddhist-like contemplation of this leap of logic and faith.)
-  -- Laird Nelson, blogging on the "dank recesses" of java.text
-%
-If we were told to parse starting *after* the supplied String, then do what we need to do to indicate pilot error.
-  -- Laird Nelson, blogging on Java programming
-%
-[The naming consultant] started asking us questions like "How does this thing make you feel?" (Excited!) "What else makes you feel that way?" (Java!) We ended up with a board covered with essentially random words.
+[The naming consultant] started asking us questions like How does this thing make you feel? (Excited!) What else makes you feel that way? (Java!) We ended up with a board covered with essentially random words.
   -- James Gosling, on naming the Java programming language
 %
 The flavor of Redcode used in this guide is (mostly) the current de facto standard, the ICWS '94 Standard Draft with pMARS 0.8 extensions. (Sort of like the Netscape extensions to HTML... Hmm... Luckily we still don't have a Microsoft Corewar Simulator. Maybe they think the market's too small.)
@@ -425,58 +416,13 @@ The flavor of Redcode used in this guide is (mostly) the current de facto standa
 One major known problem with supporting V-class is the complexity of its PCI bus adapter (EPIC and SAGA). Support for the V-class isn't going to happen until some really masochistic person who has access to a V-class is, uh, challenged by this.
   -- from the Linux-on-HPPA FAQ
 %
-"Once again, the world is saved by the inscrutable machinations of contract law."
+Once again, the world is saved by the inscrutable machinations of contract law.
   -- Ubersoft.net
 %
-[Mars was] mineral; not animal, nor vegetable, nor viral. It could have happened but it didn't. There was never any spontaneous generation out of the clays or the sulphuric hot springs; no spore falling out of space, no touch of a god; whatever starts life (for we do not know), it did not happen on Mars. Mars rolled, proof of the otherness of the world, of its stony vitality.
-   And then, one day...
-  -- Kim Stanley Robinson, _Red Mars_
-%
-It occurred to him that now he was going to be not only the first man on Mars, but the first detective. He grinned at the thought, and the last action of the omegendorph set his nerves aglow.
-  -- Kim Stanley Robinson, _Red Mars_
-%
-When you expect to live another two hundred years, you behave differently from when you expect to live only twenty.
-  -- Kim Stanley Robinson, _Red Mars_
-%
-In the land of the blind, the autopilot is king.
-  -- Kim Stanley Robinson, _Red Mars_
-%
-"These are the times that try men's souls," Michel declared.
-"Women, however, do fine," Nadia said.
-  -- Kim Stanley Robinson, _Red Mars_
-%
-"I don't think it helps to make analogies between the physical and social worlds," Sax said primly.
-"Shut up, Sax. Go back to your virtual reality."
-  -- Kim Stanley Robinson, _Red Mars_
-%
-The point is not to make another Earth. Not another Alaska or Tibet, not a Vermont nor a Venice, not even an Antarctica. The point is to make something new and strange, something Martian.
-  -- Kim Stanley Robinson, _Green Mars_
-%
-You can never go back. Free Mars.
-  -- Kim Stanley Robinson, _Green Mars_
-%
-Yes, Art thought, personal assistant and drug dispenser, that was his destiny at this point in history.
-  -- Kim Stanley Robinson, _Blue Mars_
-%
-"Meanwhile we can't be having a constitution that says only 'don't change speed too fast.'"
-  -- Kim Stanley Robinson, _Blue Mars_
-%
-On the sickbed lies a man, tall, dark-skinned, with thick black eyebrows. Sleeping fitfully. The old man is hunched at his head. "You were such a wonderful boy."
-The old man reaches out and grabs the young man by the wrist. He holds it and squeezes.
-"You used to ask questions. You were very curious, very good-natured. You would say, Why, Sax, why? Why, Sax, why? It was fun to try to keep answering."
-The old man lets go of the wrist.  He slumps over, half-asleep, muttering still. "Would you say Why, Sax, why?"
-  -- Kim Stanley Robinson, _Blue Mars_
-%
-This offended Michel's sense of meaning, but there was nothing to be done about that, except to alter Michel's sense of what was meaningful.
-  -- Kim Stanley Robinson, _Blue Mars_
-%
-They laughed. Photons rained on their skin, most shooting right through them. Here they were, transparent to the world.
-  -- Kim Stanley Robinson, _Blue Mars_
-%
-Running "beautifully fast" on modern hardware is somewhere between "I've never been to jail" and "I shower daily" on the list of human accomplishment.
+Running beautifully fast on modern hardware is somewhere between I've never been to jail and I shower daily on the list of human accomplishment.
   -- phil@philwelch.net, posting on Slashdot
 %
-PowerPC registers have numbers, not names. For the learner, this can sometimes be confusing since literals aren't easily distinguishable from registers. "3" could mean the value 3 or the register gpr3, or floating point fpr3, or special purpose register spr3. Get used to it. :)
+PowerPC registers have numbers, not names. For the learner, this can sometimes be confusing since literals aren't easily distinguishable from registers. 3 could mean the value 3 or the register gpr3, or floating point fpr3, or special purpose register spr3. Get used to it. :)
   -- Hollis Blanchard
 %
 Now we know everything there is to know about ML, except how to program!
@@ -491,48 +437,20 @@ For example, using PHP to access a MySQL database is a common subject for print 
 One time I put my car into reverse while traveling 70 MPH on the freeway. It was a very exciting learning experience.
   -- seen on Slashdot
 %
-"You cannot predict the future."
-"I knew you were going to say that."
+You cannot predict the future.
+I knew you were going to say that.
 %
 With so many of even the larger [near-earth asteroids] remaining undiscovered, the most likely warning today would be zero -- the first indication of a collision would be the flash of light and the shaking of the ground as it hit.
   -- From http://impact.arc.nasa.gov/intro_faq.cfm, allaying the fears of the American public
 %
-Me:   What race are you playing as in DnD?
-Matt: A wood elf.
-Me:   So, you working on your Orlando Bloom impression?
-Matt: I'm not that beautiful.
-%
 Guns don't kill people, catchphrases kill people.
   -- jwo7777777, posting on Slashdot
-%
-Stacey's dad!
-Took it pretty bad.
-Stacey's dad is really mad.
-...
-Stacey can't you see?
-I really need to flee.
-I'm afraid of Stacey's dad.
-%
-Microsoft: We'd rather destroy other companies than make money.
-    Apple: We'd rather build pretty things than make money.
-      IBM: We'd like to make money, but Microsoft pulled the rug out
-           from under our feet.
-      SGI: We used to make money.
-      Sun: We're going to make money, but we're not sure how yet.
-       HP: We're going to make money selling ink cartridges.
-    Linux: We'd rather have fun than make money.
-      GNU: We'd rather push our political agenda than make money.
-     AT&T: We're going to do a full body cavity search, just in case
-           you're hiding some money.
 %
 Ed is the standard text editor.
 %
 Amnesia's where you forget something, right?
 %
-   A ’a ThingCollection value is constructed from OneThing, TwoThings, ManyThings, and Nothing constructors
-to store a collection of ’a values. Write a function flatten collection that takes a ’a ThingCollection as
-an argument and that returns a ’a ThingCollection that is constructed from a single ManyThings and a single
-Nothing.
+A 'a ThingCollection value is constructed from OneThing, TwoThings, ManyThings, and Nothing constructors to store a collection of 'a values. Write a function flatten collection that takes a 'a ThingCollection as an argument and that returns a 'a ThingCollection that is constructed from a single ManyThings and a single Nothing.
   -- Professor Keen, homework assignment 1, CSC 430
 %
 [Earth] is the largest planet in the world.
@@ -544,18 +462,8 @@ As they say, mechanical engineers build weapons, civil engineers build targets..
 There are no problems which cannot be solved by judicious use of high explosives.
   -- British commando, circa WWII
 %
-I saw a poster that read:
-"Simpsons: The Movie: Rent it or own it."
-I'm not sure, but I think it's a threat.
-%
 Be prepared to witness one of the most practical uses of pointers (for all of those new C programmers who insist that pointers are useless, I smite you).
   -- Tim Carstens, http://www.tcpdump.org/pcap.htm
-%
-   "'The Force'?"
-   "The Force is an energy field--"
-   "Energy? But energy is force times distance."
-   "And 'power of the force' would be distance times the derivative with respect to time."
-  -- Darths and Droids
 %
 From The Sarah Conner Chronicles we learn that at least part of SkyNet is written in Visual Basic and that Terminator CPUs plug into a small subsection of the PCI bus. No wonder they want to kill humanity.
   -- tvtropes.org
@@ -574,14 +482,14 @@ It's all way literary.
 (12:08:22 AM) ***icco wishes that execboard didn't kill themselves
   -- seen in #cplug
 %
-"Given a signal with a 2-Hz bandwagon, the Nyquil frequency must be 1-Hz to avoid aliening of the furrier transformer."
+Given a signal with a 2-Hz bandwagon, the Nyquil frequency must be 1-Hz to avoid aliening of the furrier transformer.
   -- phdcomics.com
 %
 ... the killer must have the necessary authorization to do in the killee.
   -- Andrew Tanenbaum, discussing process termination
 %
 We assume the operating system is written in C, the usual choice for all real operating systems.
-  -- Andrew Tanenbaum, apparently expressing his definition of a "real" operating system
+  -- Andrew Tanenbaum, apparently expressing his definition of a real operating system
 %
 ... some systems take an environmentally correct approach and recycle their threads.
   -- Andrew Tanenbaum, discussing concurrent programming
@@ -660,7 +568,7 @@ for the last time, it's just a rash!
 (09:43:00 PM) Urban[0]: strange. bananas smell like bubble gum and my saliva tastes like lemons.
   -- seen in #cplug
 %
-(10:54:42 PM) DanaG: What's with the "illegal seek" error?
+(10:54:42 PM) DanaG: What's with the illegal seek error?
 (10:55:15 PM) trainman419_: I guess you are doing an illegal seek
   -- seen in #cplug
 %
@@ -735,7 +643,7 @@ Urban[0]: I think you are all on crack.
 (06:45:06 PM) Elx: will there be 12 year old root beer?
   -- seen in #nblug
 %
-I do not want a duly licensed representative of the "Internet." I want a duly licensed representative of the "Blogosphere."
+I do not want a duly licensed representative of the Internet. I want a duly licensed representative of the Blogosphere.
   -- Ubersoft.net
 %
 poodyp: what's a page doing in a nonpaged area and who faulted it?
@@ -750,7 +658,7 @@ poodyp: what's a page doing in a nonpaged area and who faulted it?
 Nekona: ...the dude I called about shipping the badger plush I needed for my costume today
   -- seen in #cplug
 %
-Patterson et al. defined RAID as Redundant Array of Inexpensive Disks, but industry redefined the I to be "Independent" rather than "Inexpensive" (Maybe so they could charge more?).
+Patterson et al. defined RAID as Redundant Array of Inexpensive Disks, but industry redefined the I to be Independent rather than Inexpensive (Maybe so they could charge more?).
   -- Andrew Tanenbaum, _Modern Operating Systems_
 %
 The audio CD was the first successful mass market storage medium. They are supposed to last 100 years. Please check back in 2080 for an update on how well the first batch did.
@@ -825,7 +733,7 @@ Officially, NTSC stands for National Television Standards Committee, but the poo
 (08:58:31 PM) Shinies: as long as no one touches the mini
   -- seen in #cplug
 %
-wtracy: "dependency tree" sounds like something from a rehab clinic
+wtracy: dependency tree sounds like something from a rehab clinic
   -- seen in #cplug
 %
 Erika: For future reference, that is not a word you should show a girl. Ever.
@@ -850,18 +758,18 @@ The life of a Japanese cosplayer at Comike possesses strange similarities to tha
 We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.
   -- Randall Munroe
 %
-   "Wait, are you talking about the Devil Dogs?!"
-   "Technically, they're called: "Fun-sized mobile agony and death dispensers."
+   Wait, are you talking about the Devil Dogs?!
+   Technically, they're called: Fun-sized mobile agony and death dispensers.
   -- Girl Genius
 %
-   "... and you cannot deny that he has a magnificent death ray."
-   "... That's ... That's hardly a basis for a stable relationship."
+   ... and you cannot deny that he has a magnificent death ray.
+   ... That's ... That's hardly a basis for a stable relationship.
   -- Girl Genius
 %
-"We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'."
+We need a special holiday to honor the countless kind souls with unsecured networks named 'linksys'.
   -- Randall Munroe
 %
-Please note that what Jeffrey calls "awesome," others may call "cause to doubt the existence of a just and benevolent God."
+Please note that what Jeffrey calls awesome, others may call cause to doubt the existence of a just and benevolent God.
   -- Shaenon Garrity
 %
 There are no more modules remaining in CVS, but if you have to do something there, consult the ancient scrolls.
@@ -871,9 +779,9 @@ There are no more modules remaining in CVS, but if you have to do something ther
 >    Adam's changes
 This is complete brown paper bag material.  I'm gonna go hide in the
 corner.
-  -- Adam "ajax" Jackson, on the Xorg mailing list
+  -- Adam ajax Jackson, on the Xorg mailing list
 %
-I don't go to college for the "life experience." I go for the degree. If socialization was the goal, I'd do it without spending thousands of dollars a semester.
+I don't go to college for the life experience. I go for the degree. If socialization was the goal, I'd do it without spending thousands of dollars a semester.
   -- CSMatt, posting on Slashdot
 %
 (02:51:08 AM) sadistic-otaku: haha
@@ -914,7 +822,7 @@ If you're thinking... I'm not RoboMan (or woman...) but I want to be, then you s
 (08:07:23 PM) Urban[0]: ...
   -- seen in #cplug
 %
-They're crafty those Canadians. I think the whole "mostly harmless" nice guy to the north persona, is a clever deception to lull us into a false sense of security. Then they'll pounce, and force us to eat round bacon, drink Moosehead, and force us to listen to Bill Shatner sing/recite "Rocket Man", until we recognize the Governor General as the true leader of North America.
+They're crafty those Canadians. I think the whole mostly harmless nice guy to the north persona, is a clever deception to lull us into a false sense of security. Then they'll pounce, and force us to eat round bacon, drink Moosehead, and force us to listen to Bill Shatner sing/recite Rocket Man, until we recognize the Governor General as the true leader of North America.
   -- 1stSarge, on the 365Tomorrows forum
 %
 (09:18:09 PM) Urban[0]: why does everyone talk about me while I'm gone?
@@ -938,7 +846,7 @@ Xenith: You know you're using the computer too much when: you can tell it's the 
 Personally, I love bashing my head against new challenges (why else would I lead WoW raids with my family?)
   -- Shirt Guy Dom
 %
-"I disapprove of what you say, but I will defend to the death your right to say it."
+I disapprove of what you say, but I will defend to the death your right to say it.
   -- Evelyn Beatrice Hall, frequently mis-attributed to Voltaire
 %
 I was concerned that my comics weren't nerdy enough.
@@ -974,12 +882,12 @@ Skipping impact analysis doesn't change the size of the task. It just turns the 
 Any sufficiently analyzed magic is indistinguishable from science!
   -- Girl Genius
 %
-"Mwahahaha! Woohoo!"
+Mwahahaha! Woohoo!
   --Bzzzap!--
-"Wow. So that's your science fair project?"
-"What? No, that's just the light switch."
-"... The ... light switch."
-"Look, I'm a girl with needs, okay?"
+Wow. So that's your science fair project?
+What? No, that's just the light switch.
+... The ... light switch.
+Look, I'm a girl with needs, okay?
   -- Girl Genius
 %
 Avoid the temptation to Frankenstein your pH levels.  Adding sulfuric acid or Drano to your aquarium can present more problems than the original problem.
@@ -992,7 +900,7 @@ Results can vary from hangs/resets/mces/corrupt answers/cats living
 with dogs.
   -- Dave Airlile on the Xorg developer mailing list
 %
-I guess this means i have to read every EULA from now on to look for "and it's totally allright if the US government scoops out your breain and keeps it in a tupperware jar, just click here."
+I guess this means i have to read every EULA from now on to look for and it's totally allright if the US government scoops out your breain and keeps it in a tupperware jar, just click here.
   -- Mark Orr, responding to a Skin Horse cartoon <skin-horse.com>
 %
 Films in which the director can point the camera and then go out for coffee while the actors recite their lines (such as love stories) can use long runs of P-frames and B-frames, which use far less storage than I-frames. From a disk-efficiency point of view, a company running a multimedia service should therefore try to get as many women customers as possible.
@@ -1013,7 +921,7 @@ Crackers are not limited to California.
 It is suggested that the user try to avoid losting the password book.
   -- Andrew Tannenbaum, on computer security
 %
------ "Jeannie Nguyen" wrote:
+----- Jeannie Nguyen wrote:
 >  and strippers in SATA cables.
 
 Ah, my secret fantasy.  How did you know?
@@ -1030,10 +938,10 @@ Some people walk around all day with a chip on their shoulder (not to be confuse
 To prevent this scenario, all companies should have a general policy telling administrators never to make mistakes.
   -- Andrew Tannenbaum, on system administration
 %
-If the license says "Licensee hereby irrevocably grants to licensor the right to kill licensee's mother and claim her inheritance", licensor may have some trouble convincing the courts when he comes to collect, despite licensee's agreeing to the license.
+If the license says Licensee hereby irrevocably grants to licensor the right to kill licensee's mother and claim her inheritance, licensor may have some trouble convincing the courts when he comes to collect, despite licensee's agreeing to the license.
   -- Andrew Tannenbaum, on end-user license agreements
 %
-An old Russian saying is: "Trust but Verify." Clearly, the old Russian clearly had software in mind.
+An old Russian saying is: Trust but Verify. Clearly, the old Russian clearly had software in mind.
   -- Andrew Tannenbaum, on software security
 %
 The 1003.1 document is written in such a way that both operating system implementers and software writers can understand it, another novelty in the standards world, although work is already underway to remedy this.
@@ -1086,9 +994,9 @@ Programmers who believe adding new features does not add new bugs are either new
 Programmers have a tendency to assume that code size and bug count will be 0 and speed will be infinite. Experience shows this view to be a bit optimistic.
   -- Andrew Tannenbaum, on code optimization
 %
-   "You mean to tell me that you two dimwits made all these toys--but the kingdom has no defenses at all?!"
-   "Erm, well, I suppose not."
-   "We're kind of a twinkly, fairy-tale sort of kingdom, you know?"
+   You mean to tell me that you two dimwits made all these toys--but the kingdom has no defenses at all?!
+   Erm, well, I suppose not.
+   We're kind of a twinkly, fairy-tale sort of kingdom, you know?
   -- Girl Genius
 %
 rxr: those xorg folks must have too much beer for free
@@ -1103,12 +1011,12 @@ Jeannie Nguyen needs to pee but is too lazy to.
 [CC]bLink: if my cuties were frozen in the fridge and i take them out to thaw will they mold?
   -- seen in #cplug
 %
-"Did you run out of Warren Buffet slashfic?"
+Did you run out of Warren Buffet slashfic?
 %
     /** This is a piece of code that I didn't write. It's ugly, I
       * don't understand it, and it frightens small children. It's
       * legacy HartMath code that forms a classic example of the
-      * "Lava Flow" antipattern.
+      * Lava Flow antipattern.
       */
   -- from the CAS source code <https://cas.dev.java.net>
 %
@@ -1123,7 +1031,7 @@ Now that I've got my foot stuck in the tar-baby ...
   -- Mike Rice
 %
 Prestigious Non-accreedited Degrees
-"No one is Turned Down"
+No one is Turned Down
   -- seen in a spam e-mail
 %
 Dude, there's tons of stuff worse than death. Remember the He-Man Chrismas special?
@@ -1206,7 +1114,7 @@ When the Minuteman II [nuclear missile] went into production in 1966, [guidance 
 (09:08:38 PM) Shinies: actually no that would about serve him right
   -- seen in #cplug
 %
-"There's no place like ~."
+There's no place like ~.
   -- Mark Smith
 %
 mmadia: Begasus in a few more weeks the caffeine molecules will replace my red blood cells :P
@@ -1285,10 +1193,10 @@ Slugs like beer more than strawberries.
 [it] doesn't crash? Oh yes. Hell hath frozen and it is buzzing with winged pigs.
   -- kblizard in the BluGoo commit logs
 %
-"Math? Math is for pussies. My movies are about shit blowing up, man."
+Math? Math is for pussies. My movies are about shit blowing up, man.
   -- Rob of toplessrobot.com, in reference to Michael Bay's Transformers 2
 %
-"Every saint has a past and every sinner has a future."
+Every saint has a past and every sinner has a future.
   -- Oscar Wilde
 %
 Even when the Detroit Lions get set to play the Pittsburgh Steelers they go into the game knowing that on any given Sunday they can come away with a win. If you’re trying to get into a girl’s pants and go in knowing that on any given Sunday you might actually get some, I guarantee that at the very least you will get more notches in your belt than the Lions get wins.
@@ -1304,7 +1212,7 @@ What I believe is that all clear-minded people should remain two things througho
  * Please don't call this.
  */
 public static function update() {
-   throw new BadFunctionCallException("NOES! Don't Call me!");
+   throw new BadFunctionCallException(NOES! Don't Call me!);
 }
   -- from a project Nat was working on
 %
@@ -1323,26 +1231,26 @@ Creativity is a function of the people, not the tools.
 So Han's walkin down the halls of Bespin with Lando. Leia's there lookin' good.  Han thinks he's off to dinner, maybe some wine, a little flirting, and then back to the ol' guest quarters with Her Hotness. But the door opens, and there's Darth Vader.... Han doesn't look incredulously at Lando; he doesn't duck or run away. What does Han do? He starts shooting at the motherfucker. He starts shooting. Be like Han.
   -- stevewhitaker
 %
-"I see all this potential, and I see squandering. God damn it, an entire generation pumping gas, waiting tables.slaves with white collars. Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history, man. No purpose or place. We have no Great War. No Great Depression. Our Great War's a spiritual war . . . our Great Depression is our lives. We've all been raised on television to believe that one day we'd all be millionaires and movie gods and rock stars. But we won't. And we're slowly learning that fact. And we're very, very pissed off."
+I see all this potential, and I see squandering. God damn it, an entire generation pumping gas, waiting tables.slaves with white collars. Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. We're the middle children of history, man. No purpose or place. We have no Great War. No Great Depression. Our Great War's a spiritual war . . . our Great Depression is our lives. We've all been raised on television to believe that one day we'd all be millionaires and movie gods and rock stars. But we won't. And we're slowly learning that fact. And we're very, very pissed off.
   -- Tyler Durden, Fight Club
 %
-Life is "a series of rooms and who we get stuck in those rooms with adds up to what our lives are."
+Life is a series of rooms and who we get stuck in those rooms with adds up to what our lives are.
   -- Eve from House ep3x12
 %
 No man's knowledge can go beyond his experience.
   -- John Locke
 %
-"Wanna get some pizza? Wanna have Sex? What you don't like pizza? I don't think i could have sex with a girl who doesn't like pizza."
+Wanna get some pizza? Wanna have Sex? What you don't like pizza? I don't think i could have sex with a girl who doesn't like pizza.
   -- Johnny Stafford
 %
-"I'm a product of my environment, you asshole"
+I'm a product of my environment, you asshole
   -- H@ckM4st4 D4ve.
 %
 Nash: You have no respect for cognitive reverie, you know that?
 Charles: Yes. But pizza - now, pizza I have enormous respect for. And of course beer.
   -- A Beautiful Mind
 %
-"I love French wine, like I love the French language. I have sampled every language, French is my favourite - fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperie de connard d'enculée ta mè! You see, it's like wiping your ass with silk, I love it." -
+I love French wine, like I love the French language. I have sampled every language, French is my favourite - fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperie de connard d'enculée ta mè! You see, it's like wiping your ass with silk, I love it. -
   -- The Merovingian
 %
 A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, and die gallantly.
@@ -1355,35 +1263,35 @@ You think its funny that I'm crying. But u eat shit and I eat the fruit jam.
 Eight bytes walk into a bar. The bartender asks, “Can I get you anything?” “Yeah,” reply the bytes. “Make us a double.”
   -- Aldrin
 %
-"He has never been known to use a word that might send a reader to the dictionary." - William Faulkner (about Ernest Hemingway)
+He has never been known to use a word that might send a reader to the dictionary. - William Faulkner (about Ernest Hemingway)
 
-"Poor Faulkner. Does he really think big emotions come from big words?" - Ernest Hemingway (about William Faulkner)
+Poor Faulkner. Does he really think big emotions come from big words? - Ernest Hemingway (about William Faulkner)
 %
-"D'You ever wonder if clouds see shapes in the ground? Because I wonder about that a lot."
+D'You ever wonder if clouds see shapes in the ground? Because I wonder about that a lot.
   -- Fighter from 8-Bit Theater
 %
-"Those aren't voices in your head. They're just the echoes of your indecision."
+Those aren't voices in your head. They're just the echoes of your indecision.
   -- Ritchie Hawtin
 %
-"There's no Nature without Nat"
+There's no Nature without Nat
   -- Some scoutmaster
 %
-"Life would be tragic if it weren't funny."
+Life would be tragic if it weren't funny.
   -- Stephen Hawking
 %
-"THANK SCIENCE IT'S FRIDAY."
+THANK SCIENCE IT'S FRIDAY.
   -- Overheard.
 %
-"illegal use of duct tape... You've been busy."
+illegal use of duct tape... You've been busy.
   -- Officer Sonoda Masamichi
 %
-"Information Wants To Be Free, and Code Wants To Be Wrong."
+Information Wants To Be Free, and Code Wants To Be Wrong.
   -- Steven Brand
 %
-"Even in the presence of others he was completely alone."
+Even in the presence of others he was completely alone.
   -- Robert Pirsig
 %
-"The best revenge is massive success."
+The best revenge is massive success.
   -- Frank Sinatra
 %
 nwelch: well there is always tomorrow
@@ -1479,16 +1387,16 @@ To become a champion, fight one more round.
 A hundred times every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving.
   -- Albert Einstein
 %
-"There's no device known to mankind that will prevent people from being idiots."
+There's no device known to mankind that will prevent people from being idiots.
   -- Mark Rasch
 %
-"The dumbfuck is hard upon us. But don't fear it, so much as the inability to continue to recognise it."
+The dumbfuck is hard upon us. But don't fear it, so much as the inability to continue to recognise it.
   -- William Gibson
 %
-"Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt."
-  -- Shakespeare, "Measure for Measure"
+Our doubts are traitors, and make us lose the good we oft might win, by fearing to attempt.
+  -- Shakespeare, Measure for Measure
 %
-"I learned that money can be a lot of things. It can be something that is hoarded, fought over, protected, stolen and withheld. Or it can be like an energy, fueled by the desire, will, creative interest, need to laugh, of large groups of people. And it can be shuffled and pushed around and pooled together to fuel a common interest, jokes about garbage, penises and parenthood."
+I learned that money can be a lot of things. It can be something that is hoarded, fought over, protected, stolen and withheld. Or it can be like an energy, fueled by the desire, will, creative interest, need to laugh, of large groups of people. And it can be shuffled and pushed around and pooled together to fuel a common interest, jokes about garbage, penises and parenthood.
   -- Louis C.K.
 %
 There are only two hard things in Computer Science: cache invalidation and naming things.
@@ -1503,7 +1411,7 @@ A man sometimes devotes his life to a desire which he is not sure will ever be f
 In the frank expression of conflicting opinions lies the greatest promise of wisdom in governmental action.
   -- Louis D. Brandeis
 %
-"Life is like topography, Hobbes. There are summits of happiness and success, flat stretches of boring routine, and valleys of frustration and failure."
+Life is like topography, Hobbes. There are summits of happiness and success, flat stretches of boring routine, and valleys of frustration and failure.
   -- Calvin of Calvin & Hobbes
 %
 I am a part of all that I have met.
