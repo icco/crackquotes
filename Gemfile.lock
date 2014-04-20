@@ -24,6 +24,7 @@ GEM
     minitest (5.3.3)
     moneta (0.7.20)
     multi_json (1.9.2)
+    oj (2.7.3)
     padrino (0.12.1)
       padrino-admin (= 0.12.1)
       padrino-cache (= 0.12.1)
@@ -60,8 +61,12 @@ GEM
       activesupport (>= 3.1)
     polyglot (0.3.4)
     rack (1.5.2)
-    rack-jsonz (0.0.1)
+    rack-jsonz (0.0.3)
+      oj
       rack
+      system
+      usagewatch
+      usagewatch_ext
     rack-protection (1.5.3)
       rack
     rack-test (0.6.2)
@@ -83,6 +88,8 @@ GEM
       tilt (~> 1.3)
     sinatra-flash (0.3.0)
       sinatra (>= 1.0.0)
+    system (0.1.3)
+      version (~> 1.0.0)
     thin (1.6.2)
       daemons (>= 1.0.9)
       eventmachine (>= 1.0.0)
@@ -97,6 +104,10 @@ GEM
       thread_safe (~> 0.1)
     url_mount (0.2.1)
       rack
+    usagewatch (0.0.7)
+    usagewatch_ext (0.2.0)
+      usagewatch (~> 0.0.6)
+    version (1.0.0)
 
 PLATFORMS
   ruby
