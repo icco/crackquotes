@@ -30,5 +30,7 @@ Padrino.configure_apps do
   set :session_secret, 'c9957a7ee290e3bbeb5bd97deef1e130e3d4a6430f8bda2ecf5a30f8480ecfc0'
 end
 
+Padrino.use Rack::Jsonz
+
 # Mounts the core application for this project
 Padrino.mount("Quotes").to('/')
