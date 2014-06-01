@@ -214,7 +214,7 @@ If cats looked like frogs, we'd realize what nasty, cruel little bastards they a
 (05:35:55 PM) Tyl3rDurd3n: we're all terrible SYN'ners...
   -- seen in #cplug
 %
-Quantum physicists didn't discover "spooky action at a distance"; in software, we've had it for years.
+Quantum physicists didn't discover spooky action at a distance; in software, we've had it for years.
   -- Michael C. Feathers, _Working Effectively with Legacy Code_
 %
 No, no, it's fine! Computer Science is the discipline of pedantry: every stupid little thing has to be exactly right for anything to work.
@@ -1227,7 +1227,7 @@ Walking on water and developing software from a specification are easy if both a
 It always takes longer than you expect, even when you take into account Hofstadter's Law.
   -- Hofstadter's Law
 %
-Some people, when confronted with a problem, think "I know, I'll use regular expressions." Now they have two problems.
+Some people, when confronted with a problem, think I know, I'll use regular expressions. Now they have two problems.
   -- Jamie Zawinski
 %
 Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
@@ -1418,13 +1418,33 @@ The best thing one can do when it's raining is to let it rain.
 It's just an alias. Dereference it and you will find yourself.
   -- Aaron Keen
 %
-"Shut up and look.”—Edward Tufte
-“Brevity is a by-product of vigor.”—W. Strunk & E.B. White
-“I am made of earth, and my song made of words.”—Pablo Neruda
-“I get up. I walk. I fall down. Meanwhile, I keep dancing.”—Daniel Hillel
-“Money is circulated. Time is spent.”—Frank Chimero
-“Writing is like driving at night in the fog. You can only see as far as your headlights, but you can make the whole trip that way.”—E.L. Doctorow
-“They can’t eat you.”—Merlin Mann
-“The Details are not the Details. They make the design.”—Charles Eames
-“Words mean things.”—Erin Kissanne
-“Less, but better.”—Dieter Rams
+Shut up and look.
+  -- Edward Tufte
+%
+Brevity is a by-product of vigor.
+  -- W. Strunk & E.B. White
+%
+I am made of earth, and my song made of words.
+  -- Pablo Neruda
+%
+I get up. I walk. I fall down. Meanwhile, I keep dancing.
+  -- Daniel Hillel
+%
+Money is circulated. Time is spent.
+  -- Frank Chimero
+%
+Writing is like driving at night in the fog. You can only see as far as your headlights, but you can make the whole trip that way.
+  -- E.L. Doctorow
+%
+They can’t eat you.
+  -- Merlin Mann
+%
+The Details are not the Details. They make the design.
+  -- Charles Eames
+%
+Words mean things.
+  -- Erin Kissanne
+%
+Less, but better.
+  -- Dieter Rams
+%
