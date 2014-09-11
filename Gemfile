@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+ruby '2.1.2'
+
 # Project requirements
 gem 'erubis', '~> 2.7.0'
 gem 'flickraw'
