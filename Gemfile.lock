@@ -21,7 +21,7 @@ GEM
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
     mime-types (1.25.1)
-    minitest (5.8.0)
+    minitest (5.8.1)
     moneta (0.7.20)
     multi_json (1.11.2)
     oj (2.12.14)
@@ -128,4 +128,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.10.2
+   1.10.6
