@@ -2,6 +2,6 @@
 # encoding: utf-8
 
 require 'json'
-require File.expand_path("../config/boot.rb", __FILE__)
+require './site'
 
-run Padrino.application
+run Sinatra::Application
