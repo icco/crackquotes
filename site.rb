@@ -4,25 +4,18 @@ Bundler.require(:default, ENV["RACK_ENV"] || :development)
 Dir[File.dirname(__FILE__) + '/lib/*.rb'].each {|file| require file }
 
 # Simple site to serve quotes.
-get "/", :provides => [:html, :json] do
+get "/" do
   @quote = Quote.random
-
-  case content_type
-  when :html
-    erb :index
-  when :json
-    json @quote.to_map
-  end
+  erb :index
 end
 
 get "/about" do
-  render :about
+  erb :about
 end
 
 get "/img" do
   @quote = Quote.random
   @img = Image.random
-
   erb :image
 end
 
@@ -32,11 +25,6 @@ get "/quote/:id", :provides => [:html, :json] do
   if @quote.nil?
     404
   else
-    case content_type
-    when :html
-      erb :index
-    when :json
-      json @quote.to_map
-    end
+    erb :index
   end
 end

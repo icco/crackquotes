@@ -72,10 +72,10 @@
         <div style="margin: 30px">
           <blockquote>
             <% @quote.text.split("\n").each do |line| %>
-              <p><%=h line %></p>
+              <p><%= line %></p>
             <% end %>
             <% if @quote.author %>
-              <small><%=h @quote.author %> <a href="/quote/<%= @quote.id %>" title="permalink">#</a></small>
+              <small><%= @quote.author %> <a href="/quote/<%= @quote.id %>" title="permalink">#</a></small>
             <% end %>
           </blockquote>
         </div>
@@ -92,7 +92,7 @@
           <% if @quote.id >= Quote.max %>
             <li class="next disabled"><a href="#">Newer &rarr;</a></li>
           <% else %>
-            <li class="next"><a href="/quote/<%= @quote.id + 1%>">Newer &rarr;</a></li>
+            <li class="next"><a href="/quote/<%= @quote.id + 1 %>">Newer &rarr;</a></li>
           <% end %>
         </ul>
       </div>
