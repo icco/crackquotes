@@ -1,15 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.6.6)
+    backports (3.6.7)
     daemons (1.2.3)
     erubis (2.7.0)
     eventmachine (1.0.8)
     flickraw (0.9.8)
     json (1.8.3)
     multi_json (1.11.2)
-    oj (2.12.14)
-    rack (1.5.5)
+    oj (2.14.0)
+    rack (1.6.4)
     rack-jsonz (0.0.3)
       oj
       rack
@@ -21,7 +21,7 @@ GEM
     rack-test (0.6.3)
       rack (>= 1.0)
     rake (10.4.2)
-    sass (3.4.18)
+    sass (3.4.19)
     shotgun (0.9.1)
       rack (>= 1.0)
     sinatra (1.4.6)
@@ -43,7 +43,7 @@ GEM
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (~> 1.0)
-    tilt (1.4.1)
+    tilt (2.0.1)
     usagewatch (0.0.7)
     usagewatch_ext (0.2.1)
       usagewatch (~> 0.0.6)
