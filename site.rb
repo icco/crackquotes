@@ -13,12 +13,6 @@ get "/about" do
   erb :about
 end
 
-get "/img" do
-  @quote = Quote.random
-  @img = Image.random
-  erb :image
-end
-
 get "/quote/:id", :provides => [:html, :json] do
   @quote = Quote.get params[:id].to_i
 
