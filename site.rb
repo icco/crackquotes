@@ -5,8 +5,7 @@ Dir[File.dirname(__FILE__) + '/lib/*.rb'].each {|file| require file }
 
 # Simple site to serve quotes.
 get "/" do
-  @quote = Quote.random
-  erb :index
+  redirect "/quote/#{Quote.random}"
 end
 
 get "/about" do
@@ -14,7 +13,8 @@ get "/about" do
 end
 
 get "/quote/:id", :provides => [:html, :json] do
-  @quote = Quote.get params[:id].to_i
+  id = params[:id].to_s
+  @quote = Quote.get id
 
   if @quote.nil?
     404

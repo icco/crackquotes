@@ -81,19 +81,7 @@
         </div>
 
         <ul class="pager">
-          <% if @quote.id <= 0 %>
-            <li class="previous disabled"><a href="#">&larr; Older</a></li>
-          <% else %>
-            <li class="previous"><a href="/quote/<%= @quote.id - 1 %>">&larr; Older</a></li>
-          <% end %>
-
-          <li><a href="/" title="Random Quote">?</a></li>
-
-          <% if @quote.id >= Quote.max %>
-            <li class="next disabled"><a href="#">Newer &rarr;</a></li>
-          <% else %>
-            <li class="next"><a href="/quote/<%= @quote.id + 1 %>">Newer &rarr;</a></li>
-          <% end %>
+          <li><a href="/" title="Random Quote">Random</a></li>
         </ul>
       </div>
 

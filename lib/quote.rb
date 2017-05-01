@@ -1,21 +1,23 @@
+require "digest"
+
 class Quote < Struct.new(:text, :author)
   @@quote_file = "./crackquotes"
 
   def id
-    return Quote.all.index self
+    Digest::SHA256.hexdigest self.text
   end
 
   def self.max
-    return Quote.all.count - 1
+    return Quote.all.count
   end
 
   def self.all
-    quotes = []
+    quotes = {}
     File.open(@@quote_file) do |file|
       file.read.split("\n%\n").each do |fortune|
         q = Quote.new
         q.text, q.author = fortune.split("  -- ")
-        quotes.push q
+        quotes[q.id] = q
       end
     end
 
@@ -27,6 +29,6 @@ class Quote < Struct.new(:text, :author)
   end
 
   def self.random
-    return self.all.sample
+    self.all.keys.sample
   end
 end
