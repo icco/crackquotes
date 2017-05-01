@@ -5,10 +5,8 @@ GEM
     daemons (1.2.4)
     erubis (2.7.0)
     eventmachine (1.2.3)
-    flickraw (0.9.9)
-    json (2.1.0)
     multi_json (1.12.1)
-    oj (3.0.2)
+    oj (3.0.3)
     rack (1.6.5)
     rack-jsonz (0.0.3)
       oj
@@ -54,8 +52,7 @@ PLATFORMS
 
 DEPENDENCIES
   erubis (~> 2.7.0)
-  flickraw
-  json
+  oj
   rack-jsonz
   rake
   sass
