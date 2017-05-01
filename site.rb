@@ -1,7 +1,7 @@
 require "rubygems"
 require "bundler"
 Bundler.require(:default, ENV["RACK_ENV"] || :development)
-Dir[File.dirname(__FILE__) + '/lib/*.rb'].each {|file| require file }
+Dir[File.dirname(__FILE__) + "/lib/*.rb"].each { |file| require file }
 
 # Simple site to serve quotes.
 get "/" do
@@ -12,7 +12,7 @@ get "/about" do
   erb :about
 end
 
-get "/quote/:id", :provides => [:html, :json] do
+get "/quote/:id", provides: %i[html json] do
   id = params[:id].to_s
   @quote = Quote.get id
 

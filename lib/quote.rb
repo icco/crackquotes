@@ -4,11 +4,11 @@ class Quote < Struct.new(:text, :author)
   @@quote_file = "./crackquotes"
 
   def id
-    Digest::SHA256.hexdigest self.text
+    Digest::SHA256.hexdigest text
   end
 
   def self.max
-    return Quote.all.count
+    Quote.all.count
   end
 
   def self.all
@@ -21,14 +21,14 @@ class Quote < Struct.new(:text, :author)
       end
     end
 
-    return quotes
+    quotes
   end
 
-  def self.get id
-    return self.all[id]
+  def self.get(id)
+    all[id]
   end
 
   def self.random
-    self.all.keys.sample
+    all.keys.sample
   end
 end
