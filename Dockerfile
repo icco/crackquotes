@@ -5,9 +5,9 @@ COPY . .
 
 ENV PORT 8080
 ENV RACK_ENV production
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
-ENV LC_ALL en_US.UTF-8
+
+# https://github.com/docker-library/docs/blob/master/ruby/content.md#encoding
+ENV LANG C.UTF-8
 
 RUN bundle install --system --without=test development
 
