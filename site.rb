@@ -12,6 +12,11 @@ get "/about" do
   erb :about
 end
 
+get "/list" do
+  @quotes = Quote.all
+  erb :list
+end
+
 get "/quote/:id", provides: %i[html json] do
   id = params[:id].to_s
   @quote = Quote.get id

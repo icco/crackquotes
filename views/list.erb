@@ -1,0 +1,12 @@
+<% @quotes.each do |quote| %>
+  <div>
+    <blockquote>
+      <% quote.text.split("\n").each do |line| %>
+        <p><%= line %></p>
+      <% end %>
+      <% if quote.author %>
+        <small><%= quote.author %> <a href="/quote/<%= quote.id %>" title="permalink">#</a></small>
+      <% end %>
+    </blockquote>
+  </div>
+<% end %>
