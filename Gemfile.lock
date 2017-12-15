@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.8.0)
-    daemons (1.2.4)
+    backports (3.10.3)
+    daemons (1.2.5)
     erubis (2.7.0)
     eventmachine (1.2.5)
     ffi (1.9.18)
     multi_json (1.12.2)
     mustermann (1.0.1)
-    oj (3.3.6)
+    oj (3.3.9)
     rack (2.0.3)
     rack-jsonz (0.0.3)
       oj
@@ -18,11 +18,11 @@ GEM
       usagewatch_ext
     rack-protection (2.0.0)
       rack
-    rake (12.1.0)
+    rake (12.3.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
-    sass (3.5.1)
+    sass (3.5.3)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
