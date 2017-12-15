@@ -13,7 +13,7 @@ get "/about" do
 end
 
 get "/list" do
-  @quotes = Quote.all
+  @quotes = Quote.all.values
   erb :list
 end
 
