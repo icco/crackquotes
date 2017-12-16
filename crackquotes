@@ -709,12 +709,6 @@ Please note that what Jeffrey calls awesome, others may call cause to doubt the 
 There are no more modules remaining in CVS, but if you have to do something there, consult the ancient scrolls.
   -- From the X.org developer documentation
 %
->  - XShm pixmaps got accidentally reenabled in the course of
->    Adam's changes
-This is complete brown paper bag material.  I'm gonna go hide in the
-corner.
-  -- Adam ajax Jackson, on the Xorg mailing list
-%
 I don't go to college for the life experience. I go for the degree. If socialization was the goal, I'd do it without spending thousands of dollars a semester.
   -- CSMatt, posting on Slashdot
 %
