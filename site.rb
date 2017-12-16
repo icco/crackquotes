@@ -14,7 +14,7 @@ end
 
 get "/list" do
   @quotes = Quote.all.values
-  erb :list
+  erb :list, layout: :layout
 end
 
 get "/quote/:id", provides: %i[html json] do
@@ -24,6 +24,6 @@ get "/quote/:id", provides: %i[html json] do
   if @quote.nil?
     404
   else
-    erb :index
+    erb :index, layout: :layout
   end
 end
