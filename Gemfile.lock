@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    backports (3.10.3)
-    daemons (1.2.5)
+    backports (3.11.0)
+    daemons (1.2.6)
     erubis (2.7.0)
     eventmachine (1.2.5)
     ffi (1.9.18)
